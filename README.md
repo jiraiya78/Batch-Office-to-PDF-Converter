@@ -35,8 +35,7 @@ Created by **Mohd Azri Afifi**, 2025
 
 ### 1. Download
 
-- [Download the latest release](https://github.com/yourusername/yourrepo/releases/latest/download/office2pdf.exe)  
-  *(Replace with your actual repo link)*
+- [Download the latest release](https://github.com/jiraiya78/Batch-Office-to-PDF-Converter/releases/download/1.2.1/office2pdfv2.exe)
 
 ### 2. Run
 
