@@ -39,7 +39,7 @@ Created by **Mohd Azri Afifi**, 2025
 
 ### 2. Run
 
-- Double-click `office2pdf.exe`.
+- Double-click `office2pdfv2.exe`.
 
 ### 3. Convert
 
